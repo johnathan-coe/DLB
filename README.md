@@ -7,7 +7,7 @@ The idea to build this was heavily inspired by Luke Smith's project 'lb' which a
 
 This project aims to have feature parity with lb whilst having the following advantages:
 
-- No command line post management Listings, Standalone Posts, etc. are generated on the fly
-- Familiar syntax inspired by the Django / Jinja templating system
-- Lightweight with less than 100 lines of python
+- **No command line post management** Listings, Standalone Posts, etc. are generated on the fly
+- **Familiar syntax** inspired by the Django / Jinja templating system
+- **Lightweight** with less than 100 lines of python
 
